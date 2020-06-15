@@ -1,6 +1,6 @@
 {
   "name": "pikaz-xlsx-style",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "pikaz",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
   "keywords": [
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/protobi/js-xlsx.git#beta"
+    "url": "https://github.com/pikaz-18/pikaz-xlsx-style"
   },
   "scripts": {
     "build": "webpack",
@@ -48,7 +48,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/protobi/js-xlsxz/issues"
+    "url": "https://github.com/pikaz-18/pikaz-xlsx-style/issues"
   },
   "license": "Apache-2.0",
   "engines": {
