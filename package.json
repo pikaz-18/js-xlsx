@@ -1,6 +1,6 @@
 {
   "name": "pikaz-xlsx-style",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "author": "pikaz",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
   "keywords": [
@@ -13,9 +13,6 @@
     "office",
     "spreadsheet"
   ],
-  "bin": {
-    "xlsx": "./bin/xlsx.njs"
-  },
   "files": [
     "lib"
   ],
